@@ -9,7 +9,6 @@ Email:
 cg21047@georgiasouthern.edu
 
 # Description
-Repository connected locally with Eclipse, used
-branches and project board issues to add 5 total
-test cases, and committed each test case to their branch
-& merged back into main branch.
+Repository connected locally with Eclipse. Used project board issues to add 5 total test cases, 
+each committed to their own branch. Created pull requests to merge each
+back into main branch.
