@@ -59,6 +59,7 @@ public class CustomerOrderTest {
 	    inventory.updateStock("Garlic Bread", 13);  // Only 2 left after this
 	    assertTrue(inventory.isLowStock("Garlic Bread"));
 	}
+  
 
 	// ToDo: Test order status updates
 	// Set the status of the order and verify that the status is updated correctly.
